@@ -1,1 +1,1 @@
-Penggunaan library Pndas dalam manipulasi data maupun pembersihan data 
+Penggunaan library Pandas dalam manipulasi data maupun pembersihan data 
